@@ -9,6 +9,7 @@
     "react-scripts": "1.1.0",
     "reveal.js": "^3.6.0"
   },
+  "homepage": "https://ln613.github.io/ui-frameworks-talk",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
