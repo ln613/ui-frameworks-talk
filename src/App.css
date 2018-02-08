@@ -26,3 +26,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.f {
+  display: flex;
+}
+
+.w40 {
+  width: 40%;
+}
+
+.slides .indent {
+  padding-left: 50px;
+}
